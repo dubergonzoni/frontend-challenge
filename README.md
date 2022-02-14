@@ -38,12 +38,12 @@ Todos os assets necessários para o desenvolvimento estão disponíveis para dow
 * Padronização do código: seguir algum styleguide de Javascript e/ou CSS.
 * Aplicação das animações de transição.
 * Upload de imagem com drag and drop (Arrasta e solta).
-* Efeito paralax no pastel que está desfocado. Algo como o aplicado no site https://buffalowax.com
-* E qualquer outra sugestão sua
+* E qualquer outra sugestão sua.
+* Melhorias que agreguem na experiencia do usuário que você julgue necessário.
+
 
 ## Critérios de avaliação
 
-* Fidelidade ao layout solicitado;
 * Fidelidade às funcionalidades solicitadas;
 * Componentização e extensibilidade dos componentes Javascript;
 * Clareza de nomenclatura do CSS;
