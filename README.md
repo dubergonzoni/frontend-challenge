@@ -1,4 +1,4 @@
-# Front-end Challenge - Doc88
+# Front-end Challenge
 
 A necessidade é desenvolver o projeto "Pastel de Ideias", onde o usuário pode criar um cardápio para sua pastelaria. #DeuFome
 
@@ -6,7 +6,7 @@ A necessidade é desenvolver o projeto "Pastel de Ideias", onde o usuário pode 
 
 * Versione, com git, e hospede seu código em algum serviço de sua preferência: github, bitbucket, gitlab ou outro.
 * Crie um README com instruções claras sobre como executar sua obra.
-* Envie um email com o link do seu repositório para fernando.dias@doc88.com.br
+* Envie um email com o link do seu repositório para ricardo.dalge@thutor.com
 * Dúvidas podem ser enviadas para o mesmo email acima.
 
 ## Layout e Material
@@ -27,11 +27,13 @@ Todos os assets necessários para o desenvolvimento estão disponíveis para dow
 * Ao clicar no botão "Limpar" todos os campos devem ficar vazios, inclusive a imagem.
 * Ao clicar no botão "Cadastrar" os dados do item devem ir para lista de pedidos, sendo que o último pedido cadastrado deverá ir para o topo.
 * Na lista de pedidos, caso não tenha imagem cadastrada, usar uma padrão.
+* Tornar o layout responsivo.
 * Não é preciso se preocupar com persistência dos dados. É esperado que o itens cadastrados sejam perdidos com o recarregamento da página (F5).
 
 ## Requisitos Opcionais
 
-* Tornar o layout responsivo.
+* Utilizar o VueX.
+* Fazer integração com Axios utilizando ferramentas de mock como: https://mockapi.io/
 * Desenvolvimento de testes unitários no Javascript.
 * Padronização do código: seguir algum styleguide de Javascript e/ou CSS.
 * Aplicação das animações de transição.
