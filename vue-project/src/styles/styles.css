@@ -1,0 +1,20 @@
+/* Aqui você pode colocar estilos globais que se aplicam a todo o projeto */
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Estilos específicos para componentes devem ser mantidos nos arquivos de componente Vue (.vue) */
+  /* Mas você pode ter estilos compartilhados aqui também */
+  .shared-border {
+    border: 1px solid #E43636;
+    border-radius: 10px;
+  }
+  
+  .shared-font {
+    font: normal normal normal 16px/21px Roboto;
+    color: #A03400;
+  }
+  
+  /* Você pode incluir outros estilos globais que você achar necessário */
+  
